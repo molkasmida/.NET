@@ -1,0 +1,11 @@
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\bin\Debug\net6.0\AMinfrastructure.deps.json
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\bin\Debug\net6.0\AMinfrastructure.dll
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\bin\Debug\net6.0\AMinfrastructure.pdb
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\AMinfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\AMinfrastructure.AssemblyInfoInputs.cache
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\AMinfrastructure.AssemblyInfo.cs
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\AMinfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\AMinfrastructure.dll
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\refint\AMinfrastructure.dll
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\AMinfrastructure.pdb
+C:\Users\smida\Downloads\AirportManagement (1)\AirportManagement\AMinfrastructure\obj\Debug\net6.0\ref\AMinfrastructure.dll
